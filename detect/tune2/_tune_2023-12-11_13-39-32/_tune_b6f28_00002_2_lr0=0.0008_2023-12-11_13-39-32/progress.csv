@@ -1,0 +1,2 @@
+metrics/precision(B),metrics/recall(B),metrics/mAP50(B),metrics/mAP50-95(B),fitness,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0.777819386471505,0.8941708922179304,0.8613778449893382,0.7378855368414534,0.750234767656242,1702308104,,False,1,b6f28_00002,2023-12-11_15-21-44,2115.209121465683,2115.209121465683,8797,82e32dcfaaa1,172.28.0.12,2115.209121465683,1
