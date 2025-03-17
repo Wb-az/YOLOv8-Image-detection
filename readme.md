@@ -33,3 +33,18 @@ The table above shows that the FPS32 and quantized OpenVino model did not affect
 
 
 
+<center>
+<table>
+    <tr>
+      <td>
+      <img src="yolov8-pear-experiments/grid-opt/test/val_batch2_pred.jpg" width=500, height=600 >
+      </td>
+      <td>
+      <img src="yolov8-pear-experiments/grid-opt/test/PR_curve.png" width=650, height=350>
+      </td>
+     </tr>
+</table>
+</center>
+
+
+
